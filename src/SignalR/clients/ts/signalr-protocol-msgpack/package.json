@@ -42,7 +42,8 @@
   ],
   "dependencies": {
     "@microsoft/signalr": ">=10.0.0-dev",
-    "@msgpack/msgpack": "^2.7.0"
+    "@msgpack/msgpack": "^2.7.0",
+    "webpack": "^5.111.1"
   },
   "overrides": {
     "ws": ">=7.4.6",
